@@ -1,0 +1,4 @@
+colorscheme molokai
+
+noremap j 5j
+noremap k 10k
